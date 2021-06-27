@@ -33,8 +33,8 @@
 <br />
 <br />
 
+[![Chellappan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7790376)](https://stackoverflow.com/users/7790376/chellappan-%e0%ae%b5)
 
-[![Chellapan github stats](https://github-readme-stats.vercel.app/api?username=ChellappanRajan&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/ChellappanRajan/github-readme-stats)
 
 
 [twitter]: https://twitter.com/che_off
