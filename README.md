@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket
 
@@ -35,7 +34,7 @@
 <br />
 
 
-[![Chellapan github stats](https://github-readme-stats.vercel.app/api?username=ChellappanRajan&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+[![Chellapan github stats](https://github-readme-stats.vercel.app/api?username=ChellappanRajan&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/ChellappanRajan/github-readme-stats)
 
 
 [twitter]: https://twitter.com/che_off
