@@ -2,7 +2,7 @@
 
 ## Stackoverflow contributor | Passionate Programmer
 
-- 🔭 I’m currently working on Angular
+- 🔭 I’m currently working on DS
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket
