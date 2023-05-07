@@ -1,10 +1,11 @@
 ### Hi there, I'm Chellappan 👋
 
+I'm a Software Enginner from Chennai, currently working on a design system at @CaterpillarInc. I'm passionate about creating beautiful and functional user interfaces that are consistent and scalable.
+
 ## Stackoverflow contributor | Passionate Programmer
 
-- 🔭 I’m currently working on DS
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Rustlang🦀
+- 🥅 I have experience with Angular,React,NextJs, TypeScript, and Web Components
 - ⚡ Fun fact: I love to play cricket
 
 ### Connect with me:
