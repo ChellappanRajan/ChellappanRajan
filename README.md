@@ -4,8 +4,8 @@ I'm a Software Enginner from Chennai, currently working on a design system at @C
 
 ## Stackoverflow contributor | Passionate Programmer
 
-- 🌱 I’m currently learning Rustlang🦀
-- 🥅 I have experience with Angular,React,NextJs, TypeScript, and Web Components
+- 🌱 I’m currently learning AI and GO.
+- 🥅 I have experience with Angular,React,NextJs,Lit, TypeScript, and Web Components
 - ⚡ Fun fact: I love to play cricket
 
 ### Connect with me:
